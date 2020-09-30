@@ -1,0 +1,52 @@
+.location-btn{
+	width:100%;
+	margin: 2px;
+}
+
+.location-lst{
+	padding-left: 0px
+}
+
+.header{
+	background-color: darkgray;
+}
+
+#cardHeader{
+	font-size:30pt;
+}
+
+.uvIndex{
+	display: inline-block;
+	padding: 5px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	background-color: gray;
+}
+
+.uvGreen{
+	background-color: green;
+}
+
+.uvYellow{
+	color: black;
+	background-color: yellow;
+}
+
+.uvRed{
+	background-color: red;
+}
+
+.day-Card-Body{
+	font-size: 12pt;
+	padding-left: 5px;
+}
+
+.day-Card-Body p{
+	text-align: left;
+	margin-bottom: 5px;
+}
+
+.day-Card-Body i{
+	font-size:24pt;
+}
